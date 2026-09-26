@@ -1,2 +1,2 @@
 # New project 
-this project was create from local system.!
+this project was create from local system
